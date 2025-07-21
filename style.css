@@ -1,0 +1,12 @@
+.card-title { font-size: 1.1rem; }
+.btn-outline-primary:hover { background-color: #0d6efd; color: white; }
+body { background-color: #f8f9fa; }
+
+.card.rounded-4 {
+  border-radius: 20px !important;
+}
+
+.card-header.rounded-top-4 {
+  border-top-left-radius: 20px !important;
+  border-top-right-radius: 20px !important;
+}
